@@ -1,5 +1,7 @@
 # ton-client-py>=1.35.0.0
-ton
+ton>=0.19
+
 
 aiogram>=2.21
 python-dotenv>=0.20.0
+requests==2.28.1
